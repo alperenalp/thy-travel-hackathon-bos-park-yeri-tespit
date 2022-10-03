@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1071578086388",
+    "firebase_url": "https://car-detect-f215f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "car-detect-f215f",
+    "storage_bucket": "car-detect-f215f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071578086388:android:d5c4b61ae0d92c058717a1",
+        "android_client_info": {
+          "package_name": "com.example.cardetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071578086388-tletrqk34uj8qs3qi20jsvk5qjg9s6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREe5VH6jK3pOq9lCBRBAfPJ1xY94usu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071578086388-tletrqk34uj8qs3qi20jsvk5qjg9s6p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071578086388:android:97888a3b45f7bb878717a1",
+        "android_client_info": {
+          "package_name": "com.example.takescreenshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071578086388-tletrqk34uj8qs3qi20jsvk5qjg9s6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREe5VH6jK3pOq9lCBRBAfPJ1xY94usu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071578086388-tletrqk34uj8qs3qi20jsvk5qjg9s6p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
